@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import "./login.css";
+import "../Login/Login.css"
 import logo from "../../assets/logo.png";
 
 const Login = () => {
